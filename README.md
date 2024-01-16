@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ThyPanhapich999/ThyPanhapich999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Thy Panhapich, currently majoring in Cybersecurity.
 
-Here are some ideas to get you started:
+My interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Python and Java programming languages with malware analysis on the side.
+
+- 🌱 I’m currently learning Cloud Computing and Python.
+
+- 😄 Pronouns: He\Him
+
+- ⚡ Fun fact: I love cooking.
+
